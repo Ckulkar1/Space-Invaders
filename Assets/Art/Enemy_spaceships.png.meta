@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 16347465d70e0bc4f9539ec28309fa69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3364362542537256755
+    second: Enemy_spaceships_0
+  - first:
+      213: 7998014245635991175
+    second: Enemy_spaceships_1
+  - first:
+      213: -171024950115807859
+    second: Enemy_spaceships_2
+  - first:
+      213: 2209034931589735006
+    second: Enemy_spaceships_3
+  - first:
+      213: -5401558038456473384
+    second: Enemy_spaceships_4
+  - first:
+      213: 5372766551127922557
+    second: Enemy_spaceships_5
+  - first:
+      213: -7475509773937142215
+    second: Enemy_spaceships_6
+  - first:
+      213: 1599422715031524269
+    second: Enemy_spaceships_7
+  - first:
+      213: -4601552293721264214
+    second: Enemy_spaceships_8
+  - first:
+      213: -7181780987743653554
+    second: Enemy_spaceships_9
+  - first:
+      213: -7615729256366279450
+    second: Enemy_spaceships_10
+  - first:
+      213: -153460504643156640
+    second: Enemy_spaceships_11
+  - first:
+      213: 8336913168159729306
+    second: Enemy_spaceships_12
+  - first:
+      213: -142932996672972598
+    second: Enemy_spaceships_13
+  - first:
+      213: 3441090722621597761
+    second: Enemy_spaceships_14
+  - first:
+      213: -2648719597934283329
+    second: Enemy_spaceships_15
+  - first:
+      213: -917196346130123326
+    second: Enemy_spaceships_16
+  - first:
+      213: -5788444768240706191
+    second: Enemy_spaceships_17
+  - first:
+      213: 4309400075631324971
+    second: Enemy_spaceships_18
+  - first:
+      213: 6722922354628310156
+    second: Enemy_spaceships_19
+  - first:
+      213: -2294267516032174947
+    second: Enemy_spaceships_20
+  - first:
+      213: -6038073247334912205
+    second: Enemy_spaceships_21
+  - first:
+      213: -8213552379902178726
+    second: Enemy_spaceships_22
+  - first:
+      213: 297120129673477557
+    second: Enemy_spaceships_23
+  - first:
+      213: -6671117569681252103
+    second: Enemy_spaceships_24
+  - first:
+      213: 1772995358700708055
+    second: Enemy_spaceships_25
+  - first:
+      213: -8071570279138215125
+    second: Enemy_spaceships_26
+  - first:
+      213: 1633729798777117581
+    second: Enemy_spaceships_27
+  - first:
+      213: 6185960108344997103
+    second: Enemy_spaceships_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_spaceships_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 525
+        width: 1143
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f209348ed90be20800000000000000
+      internalID: 3364362542537256755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 536
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a5a3c497aefe60800000000000000
+      internalID: 7998014245635991175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 549
+        width: 125
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4e98c6b560adf0800000000000000
+      internalID: -171024950115807859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 601
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e5d9f09118ae10800000000000000
+      internalID: 2209034931589735006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 552
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8652c259fc905b0800000000000000
+      internalID: -5401558038456473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 539
+        width: 101
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77941d46b6ef8a40800000000000000
+      internalID: 5372766551127922557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_6
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 559
+        width: 155
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9361481b777a14890800000000000000
+      internalID: -7475509773937142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 596
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da315273c7a423610800000000000000
+      internalID: 1599422715031524269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 586
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2c55a1900420c0800000000000000
+      internalID: -4601552293721264214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 590
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b2ea0e30355c90800000000000000
+      internalID: -7181780987743653554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 580
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4fcb8579e7f4690800000000000000
+      internalID: -7615729256366279450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 584
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06541bdeb7cceddf0800000000000000
+      internalID: -153460504643156640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 578
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ef670b5aa2b370800000000000000
+      internalID: 8336913168159729306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 548
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac810a26233340ef0800000000000000
+      internalID: -142932996672972598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148a0c1d7c531cf20800000000000000
+      internalID: 3441090722621597761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 335
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5f2872f8bdd3bd0800000000000000
+      internalID: -2648719597934283329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 308
+        width: 224
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5b0af58c67543f0800000000000000
+      internalID: -917196346130123326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 340
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d5b0bd6205bafa0800000000000000
+      internalID: -5788444768240706191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 317
+        width: 130
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2feb0f59801ecb30800000000000000
+      internalID: 4309400075631324971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 308
+        width: 157
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c843720134e9c4d50800000000000000
+      internalID: 6722922354628310156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 324
+        width: 156
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943f2789df1920e0800000000000000
+      internalID: -2294267516032174947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_21
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 309
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f20d46f54743ca0800000000000000
+      internalID: -6038073247334912205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 95
+        width: 110
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5acdd3b0a9930e80800000000000000
+      internalID: -8213552379902178726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 100
+        width: 104
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3ec80f259f1400800000000000000
+      internalID: 297120129673477557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 256
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0284c5aed6b63a0800000000000000
+      internalID: -6671117569681252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 110
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a5cf82e1fa9810800000000000000
+      internalID: 1772995358700708055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_26
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 84
+        width: 127
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bbd5c98950cff80800000000000000
+      internalID: -8071570279138215125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 90
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b941b989c2ca610800000000000000
+      internalID: 1633729798777117581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_spaceships_28
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 84
+        width: 137
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f3a4a1f1f8d550800000000000000
+      internalID: 6185960108344997103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
